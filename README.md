@@ -1,4 +1,6 @@
 # LangChain-powered-MCQ-Generator
+Open your web browser and navigate to http://127.0.0.1:5000.
+
 Project Description
 This project provides two Python applications that leverage LangChain and the Groq API to automatically generate multiple-choice questions (MCQs) from text documents. The applications can process .pdf, .docx, and .txt files. They extract text from the uploaded documents, use a large language model (LLM) to create a specified number of MCQs, and then save the generated questions as .txt and .pdf files.
 
